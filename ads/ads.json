@@ -1,0 +1,24 @@
+{
+  "adsApp": [
+    {
+      "icon": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/poster.jpg",
+      "appName": "Filters for Selfie",
+      "description": "Let you create your beautiful with cat face, cute doggy face, emoji, monster, glasses, hat, heart effect, flower crown, snap face and funny style",
+      "package": "dsa.filters.for.selfie",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/icon2.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/poster2.jpg",
+      "appName": "Heart Crown Photo Editor",
+      "description": "Heart Crown Filter has given you the chance to look super kawaii with hundred of heart crown effect, flower crown, dog face camera, cat stickers...",
+      "package": "heart.crown.effect",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    }
+  ]
+}
