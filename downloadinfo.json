@@ -1,5 +1,16 @@
 [
   {
+    "live.face.fliters": {
+      "am_ba": "PXiCLRbGMjf8cdYwosLtpuRweYhMy5hDDsGHJgPR09rSA5E0qVNaBy32m9NJQ+rb",
+      "am_in": "PXiCLRbGMjf8cdYwosLtpszsIKjxZIUL9NG4SCrQXyuQDzZdxbQWm9l6meQQGn83",
+      "am_na": "PXiCLRbGMjf8cdYwosLtpuGWvz/kcLwd3GZGFJp8s+oTTGJc2d4pMKifKa5Vo8xU",
+
+      "fb_ba": "ghAc4JGGY4aFZ0cEhLsA7yeDWsUWKYSSlMwNQXMfHlsyjD5QPr/ygzgtIOKZRR5n",
+      "fb_in": "IguMR9D7tsNSIi9I4jwpa8ISg0iaCELJl7f088+E6sA=",
+      "fb_re": "IguMR9D7tsNSIi9I4jwpa8ISg0iaCELJl7f088+E6sA=",
+      "fb_na": "9aWGpaoQKN4R+Fc2IcDPVfQOoS9spzxfhDbGmsKxSxOHPJV89+Nt5Ug2YlScoF3l",
+    "ads_list": ["fb","am"]
+    },
 "luxury.art.effect.snapchat.debug": {
       "am_ba": "PXiCLRbGMjf8cdYwosLtpuRweYhMy5hDDsGHJgPR09rSA5E0qVNaBy32m9NJQ+rb",
       "am_in": "PXiCLRbGMjf8cdYwosLtpszsIKjxZIUL9NG4SCrQXyuQDzZdxbQWm9l6meQQGn83",
