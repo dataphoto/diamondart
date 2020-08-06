@@ -1,5 +1,16 @@
 [
   {
+    "dsa.sunset.photo.editor": {
+      "am_ba": "JskP3SISCbKw9EjAil1fwPcDNdfg6P0x81x8CxkgTu5Hxvl+GemQa+uQ701kD+mA",
+      "am_in": "JskP3SISCbKw9EjAil1fwDAnlzLPrWePTtRyPknRnaWeMiveNb4AjrVcFydudUMp",
+      "am_na": "JskP3SISCbKw9EjAil1fwNXYwjYL8jt+7giXaKHigASQHiv3IG5/2l49GeN0t4oq",
+
+      "fb_ba": "nme+M4aHPOxEYIjidDI1MhJybl8+C70WUDQ8LYKMhAI=",
+      "fb_in": "nme+M4aHPOxEYIjidDI1MupUrEJkp4izYahrHSSppzU=",
+      "fb_re": "nme+M4aHPOxEYIjidDI1MiPUpswekPDbxjAYw+9KDN8=",
+      "fb_na": "nme+M4aHPOxEYIjidDI1Mo7R6yyHbJ8+JDcy7wtHp7Q=",
+    "ads_list": ["fb"]
+    },
     "live.face.fliters": {
       "am_ba": "JskP3SISCbKw9EjAil1fwJJxeqc9lc6k/1obDwUilY4NXmPBN00EkCN1Va+eX9VC",
       "am_in": "JskP3SISCbKw9EjAil1fwFcB/sL88HLYcISr0H9pbAVDsl0BQgUIyKqP0Ya3XZCS",
