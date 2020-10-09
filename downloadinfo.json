@@ -1,5 +1,16 @@
 [
   {
+    "so.camera.live.face.filter": {
+      "am_ba": "JskP3SISCbKw9EjAil1fwN7Iaaf2uwOP4Wxynqo7YWgwHJ25v7geTolnhZR6SfZ3",
+      "am_in": "JskP3SISCbKw9EjAil1fwG6X65uBnd5qKzDvYSv6emrKIZ3DloyHHQwWHRtTTTOM",
+      "am_na": "JskP3SISCbKw9EjAil1fwDcaOvIqmDAVFz4FfKN0pTNz4wz9x4+NTarQ3/VTqPxA",
+
+      "fb_ba": "9/EQOwkrMD3es+JMQM+5s3QUTB9FkiGUJHpuFX9TEFw=",
+      "fb_in": "9/EQOwkrMD3es+JMQM+5s0TiFZyLKzz5JSRdZszmUV0=",
+      "fb_re": "9/EQOwkrMD3es+JMQM+5s1QPLEYqmh62vqwZKMgmp0w=",
+      "fb_na": "9/EQOwkrMD3es+JMQM+5s53uPC8x7rIAt0Rr+wmSzbw=",
+      "ads_list": ["fb", "am"]
+    },
     "dsa.sunset.photo.editor": {
       "am_ba": "JskP3SISCbKw9EjAil1fwPcDNdfg6P0x81x8CxkgTu5Hxvl+GemQa+uQ701kD+mA",
       "am_in": "JskP3SISCbKw9EjAil1fwDAnlzLPrWePTtRyPknRnaWeMiveNb4AjrVcFydudUMp",
