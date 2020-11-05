@@ -1,6 +1,26 @@
 [
   {
+  	"dsa.filters.for.selfie": {
+      "fb_ba": "iJNgVpgY15IyBZ0TnqJ4rfAC2a3RZTzA1Tfvsg86Opw=",
+      "fb_in": "iJNgVpgY15IyBZ0TnqJ4rf1xu1rM9IYaufgUXB1jgy8=",
+      "fb_re": "iJNgVpgY15IyBZ0TnqJ4ra1f+EQRzW0Z+TtQ+sS7/WU=",
+      "fb_na": "iJNgVpgY15IyBZ0TnqJ4rXbIhiqCmqIZps1APMl1Gpw=",
+      "ads_list": ["fb"]
+    },
+
     "com.filter.forMusically": {
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
+
+      "fb_ba": "n9sMh/9aIsqJZwCF08IXRjUokHB/xNMIHvyX91ZtEIY=",
+      "fb_in": "n9sMh/9aIsqJZwCF08IXRufo49qz9LGCtQ4h3QGFeks=",
+      "fb_re": "n9sMh/9aIsqJZwCF08IXRoh2M/DyjCbG1IrGV3aNgGY=",
+      "fb_na": "n9sMh/9aIsqJZwCF08IXRm89NcngkeFqHfBDUb6EXag=",
+      "ads_list": [ "fb"]
+    },
+
+	"com.filter.forMusically.tmp": {
       "am_ba": "JskP3SISCbKw9EjAil1fwLFdDhKzYKufHhztTfiCnvQLJhKLSCDRrAyZTVONdHtt",
       "am_in": "JskP3SISCbKw9EjAil1fwEoKLRVCw8e+G1U8Hl15VlImhbhZKRx4xgcngYoaOlM9",
       "am_na": "JskP3SISCbKw9EjAil1fwNW+pSL4GNZBb9jJzu6k8SEXRMnaVE7EQkoR3e6YJw18",
@@ -11,7 +31,6 @@
       "fb_na": "n9sMh/9aIsqJZwCF08IXRm89NcngkeFqHfBDUb6EXag=",
       "ads_list": ["am", "fb"]
     },
-
 
     "so.camera.live.face.filter": {
       "am_ba": "JskP3SISCbKw9EjAil1fwN7Iaaf2uwOP4Wxynqo7YWgwHJ25v7geTolnhZR6SfZ3",
