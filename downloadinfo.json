@@ -1,12 +1,5 @@
 [
   {
-  	"merry.christmas.photo.frame": {
-      "hide_my_ad":false
-    },
-
-  	"heart.crown.effect": {
-      "hide_my_ad":false
-    },
   	"dsa.filters.for.selfie": {
       "fb_ba": "iJNgVpgY15IyBZ0TnqJ4rfAC2a3RZTzA1Tfvsg86Opw=",
       "fb_in": "iJNgVpgY15IyBZ0TnqJ4rf1xu1rM9IYaufgUXB1jgy8=",
@@ -79,6 +72,7 @@
         "am",
         "fb"
       ],
+      "hide_my_ad":true,
 	"disable_sa":true}
 	
  }
