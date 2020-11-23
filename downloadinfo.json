@@ -1,5 +1,13 @@
 [
   {
+  	"bigolive.filters": {
+  	  "am_ba": "JskP3SISCbKw9EjAil1fwAjbHWb0qw3qrrQ/Cl9XiPc9C3Sk6NYY5q8fKa2qXug1",
+      "am_in": "JskP3SISCbKw9EjAil1fwC6dT2nkKj2y/sMJpTnG+P7QHZiNA6QWgB7rMtg1KhJV",
+      "am_na": "JskP3SISCbKw9EjAil1fwKLd8i19ZxMwZD6d5T4SoXFg1z9PRXAl80WHp9anxbVp",
+
+      "ads_list": ["am"]
+    },
+
   	"dsa.filters.for.selfie": {
   	  "am_ba": "JskP3SISCbKw9EjAil1fwPrvotW+lgLI4/S5p2KxTOD5375i7fOGvV2caX2laqy3",
       "am_in": "JskP3SISCbKw9EjAil1fwNAE8+QxhPg94cuclslAs6w2rXi/vmXfIMt+HlXuwlG9",
