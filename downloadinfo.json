@@ -29,7 +29,7 @@
       "fb_in": "n9sMh/9aIsqJZwCF08IXRufo49qz9LGCtQ4h3QGFeks=",
       "fb_re": "n9sMh/9aIsqJZwCF08IXRoh2M/DyjCbG1IrGV3aNgGY=",
       "fb_na": "n9sMh/9aIsqJZwCF08IXRm89NcngkeFqHfBDUb6EXag=",
-      "ads_list": ["mp", "fb", "am"]
+      "ads_list": ["am", "mp", "fb"]
     },
 
     "so.camera.live.face.filter": {
