@@ -84,7 +84,7 @@
         "am",
         "fb"
       ],
-      "hide_my_ad":true,
+      "hide_my_ad":false,
 	"disable_sa":true}
 	
  }
