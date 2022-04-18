@@ -1,21 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/icon2.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/graphic2.png",
+      "appName": "Filters for Selfies",
+      "description": "Filters for Selfies has given you the chance to look super kawaii with hundred of heart crown effect.",
+      "package": "filters.selfies.foto.art",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/poster.png",
       "appName": "Album Cover Maker",
       "description": "Album Cover Maker is the best app for creating beautiful album covers. Download now and be on your way to using this powerful mixtape cover maker",
       "package": "com.photo.beauty.plus.album.cover",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },
-    {
-      "icon": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/icon2.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/poster2.png",
-      "appName": "Heart Crown Photo Editor",
-      "description": "Heart Crown Filter has given you the chance to look super kawaii with hundred of heart crown effect.",
-      "package": "heart.crown.effect",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
