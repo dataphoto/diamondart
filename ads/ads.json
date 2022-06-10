@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/graphic.png",
+      "appName": "Neon Horns Devil",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
+      "package": "neon.horns.devil",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/graphic1.png",
       "appName": "Makeup Camera",
       "description": "Makeup Camera has given you the chance to look super kawaii with hundred of heart crown effect.",
       "package": "photoBeautyPlus.makeup.camera",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },{
-      "icon": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/diamondart/master/ads/graphic.png",
-      "appName": "Sweet Face Camera",
-      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
-      "package": "sweet.snap.face.camera.art",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
