@@ -1,15 +1,19 @@
 [
   {
-  	"bigolive.filters": {
-  	  "am_ba": "JskP3SISCbKw9EjAil1fwAjbHWb0qw3qrrQ/Cl9XiPc9C3Sk6NYY5q8fKa2qXug1",
-      "am_in": "JskP3SISCbKw9EjAil1fwC6dT2nkKj2y/sMJpTnG+P7QHZiNA6QWgB7rMtg1KhJV",
-      "am_na": "JskP3SISCbKw9EjAil1fwKLd8i19ZxMwZD6d5T4SoXFg1z9PRXAl80WHp9anxbVp",
+    "com.filter.forMusically.backup": {
+      "am_ba": "JskP3SISCbKw9EjAil1fwFFyyejWrS4OfObXav3l9yexSTlmbYryt3H3vv2rqM0a",
+      "am_in": "JskP3SISCbKw9EjAil1fwMhlTBIFcOs/H/PR8QjOW8sMRlW5YH9GmWplh2aACfn4",
+      "am_na": "JskP3SISCbKw9EjAil1fwNBfXgYzsxhnhzCUErMwkOrdYNWR/vMBDkRwzQ6NIuLN",
 
-      "ads_list": ["am"]
+      "fb_ba": "n9sMh/9aIsqJZwCF08IXRjUokHB/xNMIHvyX91ZtEIY=",
+      "fb_in": "n9sMh/9aIsqJZwCF08IXRufo49qz9LGCtQ4h3QGFeks=",
+      "fb_re": "n9sMh/9aIsqJZwCF08IXRoh2M/DyjCbG1IrGV3aNgGY=",
+      "fb_na": "n9sMh/9aIsqJZwCF08IXRm89NcngkeFqHfBDUb6EXag=",
+      "ads_list": ["am", "fb"]
     },
 
-  	"dsa.filters.for.selfie": {
-  	  "am_ba": "JskP3SISCbKw9EjAil1fwPrvotW+lgLI4/S5p2KxTOD5375i7fOGvV2caX2laqy3",
+    "dsa.filters.for.selfie.backup": {
+      "am_ba": "JskP3SISCbKw9EjAil1fwPrvotW+lgLI4/S5p2KxTOD5375i7fOGvV2caX2laqy3",
       "am_in": "JskP3SISCbKw9EjAil1fwNAE8+QxhPg94cuclslAs6w2rXi/vmXfIMt+HlXuwlG9",
       "am_na": "JskP3SISCbKw9EjAil1fwBfaSZo/L3IDE4KM1NtKmEDDlb8jBrCtuA4WWHYm3Nlz",
 
@@ -20,23 +24,19 @@
       "ads_list": ["am", "fb"]
     },
 
+  	"bigolive.filters": {
+  	  "am_ba": "JskP3SISCbKw9EjAil1fwAjbHWb0qw3qrrQ/Cl9XiPc9C3Sk6NYY5q8fKa2qXug1",
+      "am_in": "JskP3SISCbKw9EjAil1fwC6dT2nkKj2y/sMJpTnG+P7QHZiNA6QWgB7rMtg1KhJV",
+      "am_na": "JskP3SISCbKw9EjAil1fwKLd8i19ZxMwZD6d5T4SoXFg1z9PRXAl80WHp9anxbVp",
+
+      "ads_list": ["am"]
+    },
+
   "merry.christmas.photo.frame": {
       "am_ba": "JskP3SISCbKw9EjAil1fwO/ug5Ww5omM8i9fBX0l6iAXX+ASzZITN64ZWpGKY6DO",
       "am_in": "JskP3SISCbKw9EjAil1fwEAYqhhCWTAl5V5wCS8/guIQZ3JYf5x8MJHQddFzJP/W",
       "am_na": "JskP3SISCbKw9EjAil1fwH2CifsBURMS2rZvuXDM92XY2SSLqDwXcWrws3uIjMo3",
       "ads_list": ["am"]
-    },
-
-    "com.filter.forMusically": {
-      "am_ba": "JskP3SISCbKw9EjAil1fwFFyyejWrS4OfObXav3l9yexSTlmbYryt3H3vv2rqM0a",
-      "am_in": "JskP3SISCbKw9EjAil1fwMhlTBIFcOs/H/PR8QjOW8sMRlW5YH9GmWplh2aACfn4",
-      "am_na": "JskP3SISCbKw9EjAil1fwNBfXgYzsxhnhzCUErMwkOrdYNWR/vMBDkRwzQ6NIuLN",
-
-      "fb_ba": "n9sMh/9aIsqJZwCF08IXRjUokHB/xNMIHvyX91ZtEIY=",
-      "fb_in": "n9sMh/9aIsqJZwCF08IXRufo49qz9LGCtQ4h3QGFeks=",
-      "fb_re": "n9sMh/9aIsqJZwCF08IXRoh2M/DyjCbG1IrGV3aNgGY=",
-      "fb_na": "n9sMh/9aIsqJZwCF08IXRm89NcngkeFqHfBDUb6EXag=",
-      "ads_list": ["am", "fb"]
     },
 
     "so.camera.live.face.filter": {
