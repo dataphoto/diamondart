@@ -1,5 +1,17 @@
 [
   {
+    "dsa.filters.for.selfie": {
+      "am_ba": "",
+      "am_in": "5hZ0vgoKY/n+UgFXPJSQSJGC7oRavXiHNvfZNRyuZsU353KOxEMdSkmoFx6eLpOT",
+      "am_na": "",
+
+      "fb_ba": "iJNgVpgY15IyBZ0TnqJ4rfAC2a3RZTzA1Tfvsg86Opw=",
+      "fb_in": "iJNgVpgY15IyBZ0TnqJ4rf1xu1rM9IYaufgUXB1jgy8=",
+      "fb_re": "iJNgVpgY15IyBZ0TnqJ4ra1f+EQRzW0Z+TtQ+sS7/WU=",
+      "fb_na": "iJNgVpgY15IyBZ0TnqJ4rXbIhiqCmqIZps1APMl1Gpw=",
+      "ads_list": ["am", "fb"]
+    },
+
     "com.filter.forMusically.backup": {
       "am_ba": "JskP3SISCbKw9EjAil1fwFFyyejWrS4OfObXav3l9yexSTlmbYryt3H3vv2rqM0a",
       "am_in": "JskP3SISCbKw9EjAil1fwMhlTBIFcOs/H/PR8QjOW8sMRlW5YH9GmWplh2aACfn4",
