@@ -1,16 +1,5 @@
 [
   {
-    "dsa.filters.for.selfie": {
-      "am_ba": "",
-      "am_in": "5hZ0vgoKY/n+UgFXPJSQSJGC7oRavXiHNvfZNRyuZsU353KOxEMdSkmoFx6eLpOT",
-      "am_na": "",
-
-      "fb_ba": "iJNgVpgY15IyBZ0TnqJ4rfAC2a3RZTzA1Tfvsg86Opw=",
-      "fb_in": "iJNgVpgY15IyBZ0TnqJ4rf1xu1rM9IYaufgUXB1jgy8=",
-      "fb_re": "iJNgVpgY15IyBZ0TnqJ4ra1f+EQRzW0Z+TtQ+sS7/WU=",
-      "fb_na": "iJNgVpgY15IyBZ0TnqJ4rXbIhiqCmqIZps1APMl1Gpw=",
-      "ads_list": ["am", "fb"]
-    },
     "com.filter.forMusically": {
       "am_ba": "",
       "am_in": "BYKR+5UHFzquwziS2usw+yNNICZujd0JRqr6dLVLecxlBdHfOjEkh4rGftww8LLY",
@@ -35,7 +24,7 @@
       "ads_list": ["am", "fb"]
     },
 
-    "dsa.filters.for.selfie.backup": {
+    "dsa.filters.for.selfie": {
       "am_ba": "JskP3SISCbKw9EjAil1fwPrvotW+lgLI4/S5p2KxTOD5375i7fOGvV2caX2laqy3",
       "am_in": "JskP3SISCbKw9EjAil1fwNAE8+QxhPg94cuclslAs6w2rXi/vmXfIMt+HlXuwlG9",
       "am_na": "JskP3SISCbKw9EjAil1fwBfaSZo/L3IDE4KM1NtKmEDDlb8jBrCtuA4WWHYm3Nlz",
