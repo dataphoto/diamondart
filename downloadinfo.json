@@ -2,14 +2,14 @@
   {
     "com.filter.forMusically": {
       "am_ba": "",
-      "am_in": "",
+      "am_in": "BYKR+5UHFzquwziS2usw+yNNICZujd0JRqr6dLVLecxlBdHfOjEkh4rGftww8LLY",
       "am_na": "",
 
       "fb_ba": "n9sMh/9aIsqJZwCF08IXRjUokHB/xNMIHvyX91ZtEIY=",
       "fb_in": "n9sMh/9aIsqJZwCF08IXRufo49qz9LGCtQ4h3QGFeks=",
       "fb_re": "n9sMh/9aIsqJZwCF08IXRoh2M/DyjCbG1IrGV3aNgGY=",
       "fb_na": "n9sMh/9aIsqJZwCF08IXRm89NcngkeFqHfBDUb6EXag=",
-      "ads_list": ["fb"]
+      "ads_list": ["am", "fb"]
     },
 
     "com.filter.forMusically.backup": {
